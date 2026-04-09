@@ -1,7 +1,8 @@
-# FABLIHA DEYA | CSE Undergrad @ RUET | Full-Stack Web Developer | Cybersecurity Enthusiast
+# FABLIHA DEYA | CSE Undergrad @ RUET | Mern-Stack Web Developer | Cybersecurity Enthusiast
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x400.png?text=YOUR_BANNER_HERE" alt="Fabliha Deya, Full Stack Web Developer. Building Secure & Interactive Web Solutions. With glowing code particles, network diagrams, and a pulsing shield icon." width="100%">
+  <img src="https://via.placeholder.com/1200x400.png?text=YOUR_BANNER_HERE" alt="Fabliha Deya, Full Stack Web Developer. Building Secure & Interactive Web Solutions. With glow<img width="2730" height="1536" alt="Gemini_Generated_Image_vijnp6vijnp6vijn" src="https://github.com/user-attachments/assets/6db7ca9a-ff93-4b50-95d2-bface51503ee" />
+ing code particles, network diagrams, and a pulsing shield icon." width="100%">
 </div>
 
 ## 🌟 Talking about Personal Stuff!
