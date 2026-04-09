@@ -33,9 +33,5 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin: 5px;" />
 </div>
 
-## 📈 Top Languages
-<div align="center">
-  <a href="https://github.com/Deya824">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deya824&theme=react&layout=compact&hide_border=false" alt="Deya824's top languages" />
-  </a>
+
 </div>
